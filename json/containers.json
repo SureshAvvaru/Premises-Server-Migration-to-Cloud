@@ -1,0 +1,10 @@
+[
+{
+   "Description": "centosv7",
+   "Format": "vmdk",
+   "UserBucket": {
+      "S3Bucket": "vmimage-backup",
+      "S3Key": "VM-Import/Server-1-disk1.vmdk"
+  }
+}]
+
